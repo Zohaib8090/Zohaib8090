@@ -60,7 +60,15 @@ I build custom operating systems, professional-grade IDEs, and full-stack applic
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zohaib8090&show_icons=true&theme=tokyonight&count_private=true" alt="Zohaib's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib8090&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+
+<div align="center">
+
+  ### 📊 Dynamic Stats & Top Languages
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zohaib8090&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Zohaib's Activity Graph" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Zohaib8090&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="60%" alt="Top Languages" />
+
+</div>
