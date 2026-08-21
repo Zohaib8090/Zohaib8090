@@ -1,6 +1,6 @@
 # Hi there, I'm Zohaib 👋
 
-**Main focus was on Android Development but no longer i want to expend** | **zohaib.dev** | **zohaibbaig144@gmail.com**
+**Main focus was on Android Development but no longer i want to expand** | **zohaib.dev** | **zohaibbaig144@gmail.com**
 
 I build custom operating systems, professional-grade IDEs, and full-stack applications. Passionate about system design, native mobile development, and creating performant software across Arch-based Linux and Android.
 
