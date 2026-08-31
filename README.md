@@ -23,7 +23,7 @@ I build custom operating systems, professional-grade IDEs, and full-stack applic
 
 | Repository | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| [**zohara**](https://github.com/Zohaib8090/zohara) | General-purpose OS based on Arch Zen Linux with custom optimizations. | Python | Public |
+| [**zohara**](https://github.com/Zohaib8090/zohara) | General-purpose OS based on Arch Zen Linux with custom optimizations. | Rust | Public |
 | [**zohara-settings**](https://github.com/Zohaib8090/zohara-settings) | Settings management for Zohara OS. | Rust | Public |
 | [**zohara-packages**](https://github.com/Zohaib8090/zohara-packages) | Package repository for Zohara OS. | - | Public |
 | **kodrix-os** | A full operating system build. | Kotlin | Private |
