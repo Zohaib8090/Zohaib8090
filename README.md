@@ -18,6 +18,10 @@ I build custom operating systems, professional-grade IDEs, and full-stack applic
 | **power_smart-music-player** | Smart music player application. | Dart | Private |
 | **scientfic-cal** / **test101** | Experimental Android projects. | Kotlin | Private |
 | **Phone-ai** | AI phone integration. | TypeScript | Private |
+| [**namaz-times**](https://github.com/Zohaib8090/namaz-times) | Prayer (Namaz) times app. | Kotlin | Public |
+| [**Tasky-reminders**](https://github.com/Zohaib8090/Tasky-reminders) | Task & reminders app. | Kotlin | Public |
+| [**andriod-emu**](https://github.com/Zohaib8090/andriod-emu) | Android emulator project. | - | Public |
+| **myapp** | Experimental mobile app. | - | Private |
 
 **💻 OS & System Development**
 
@@ -28,6 +32,12 @@ I build custom operating systems, professional-grade IDEs, and full-stack applic
 | [**zohara-packages**](https://github.com/Zohaib8090/zohara-packages) | Package repository for Zohara OS. | - | Public |
 | **kodrix-os** | A full operating system build. | Kotlin | Private |
 | [**zohara-os**](https://github.com/Zohaib8090/zohara-os) | Experimental OS built with Rust. | Rust | Public (Archived) |
+| [**zohara-pipeline**](https://github.com/Zohaib8090/zohara-pipeline) | Build & CI pipeline for Zohara OS. | - | Public |
+| [**zohara-apps**](https://github.com/Zohaib8090/zohara-apps) | Bundled applications for Zohara OS. | - | Public |
+| [**zohara-updates-system**](https://github.com/Zohaib8090/zohara-updates-system) | OTA update system for Zohara OS. | - | Public |
+| [**zohara-link**](https://github.com/Zohaib8090/zohara-link) | Companion/linking service for Zohara OS. | - | Public |
+| [**KodrixMarketplace**](https://github.com/Zohaib8090/KodrixMarketplace) | Marketplace for KodrixIDE plugins & extensions. | - | Public |
+| [**kodrix-ai-agent**](https://github.com/Zohaib8090/kodrix-ai-agent) | AI agent integration for KodrixIDE. | - | Public |
 
 **🌐 Web, Backend & Tools**
 
@@ -48,6 +58,8 @@ I build custom operating systems, professional-grade IDEs, and full-stack applic
 | **VideoElement** | Video image extraction tool. | TypeScript | Private |
 | **AD-FREEE-LINK** / **studio** | Ad-free tools and studio environment. | TypeScript | Private |
 | **Good-lock** / **Spoton-music** | Web applications and music player testing. | TypeScript | Private |
+| [**Network-Firewall**](https://github.com/Zohaib8090/Network-Firewall) | Network firewall tool/service. | - | Public |
+| [**Spoton-music-player-**](https://github.com/Zohaib8090/Spoton-music-player-) | Spoton music player. | - | Private |
 
 **🍴 Forks & Archives**
 
@@ -57,6 +69,8 @@ I build custom operating systems, professional-grade IDEs, and full-stack applic
 | [**new-pipe-advanced-**](https://github.com/Zohaib8090/new-pipe-advanced-) | Libre lightweight streaming front-end. Forked from TeamNewPipe. | Java | Fork |
 | [**OuterTune-zohaib**](https://github.com/Zohaib8090/OuterTune-zohaib) | Material 3 Music Player. Forked from OuterTune. | Kotlin | Fork (Archived) |
 | [**Streamvibely_by_zohaib**](https://github.com/Zohaib8090/Streamvibely_by_zohaib) | Streaming platform frontend. | TypeScript | Public (Archived) |
+| [**hermes-agent**](https://github.com/Zohaib8090/hermes-agent) | Forked AI agent project. | - | Fork |
+| [**moonlight-android-adv**](https://github.com/Zohaib8090/moonlight-android-adv) | Forked from Moonlight (Android game streaming client). | - | Fork |
 
 ---
 
